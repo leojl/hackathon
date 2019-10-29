@@ -8,4 +8,4 @@ Cada equipe deverá criar um diretório na raiz com o nome da mesma e adicionar 
 
 Não mexer nos projetos alheios.
 
-Ficar atento no momento do commit para que 
+Ficar atento no momento do commit para que as atualizações sejam realizadas apenas na pasta da sua equipe. Vale ressaltar que se pessoas de outras equipes fizer alterações em outras pastas 
