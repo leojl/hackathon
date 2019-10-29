@@ -1,4 +1,4 @@
-## Grupo <NOME>
+## Grupo NOME
 **Descrição:** 
 
 **Apresentação:** - se tiver
