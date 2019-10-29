@@ -1,11 +1,21 @@
-# MPBA - Hackathon 2019
+## Grupo <NOME>
+**Descrição:** 
 
-Neste repositório deverá ser colocado todo código e documentação gerados durante a Hackathon do MPBA. 
+**Apresentação:** - se tiver
 
-Cada equipe deverá criar um diretório na raiz com o nome da mesma e adicionar tudo o que foi produzido.
+**Linguagens de programação utilizadas:**
+- Java (Android)
+- C#
+- Python
 
-## Cuidado participantes
+**Ferramentas utilizadas:**
+- Ferramenta 1
+- Ferramenta 2
 
-Não mexer nos projetos alheios.
+**Equipe:**
 
-Ficar atento no momento do commit para que as atualizações sejam realizadas apenas na pasta da sua equipe. Vale ressaltar que se pessoas de outras equipes fizer alterações em outras pastas 
+| Nome | Função | Redes | Github/Bitbucket | Site pessoal |
+| ------------- | ------------- | ------------- | ------------- | ------------- | 
+|  Fulano  | Developer / Designer  | [Facebook](https://www.facebook.com/Fulano), [Linkedin](https://br.linkedin.com/pub/Fulanao) | @Fulanao | [Fulanao.com.br](http://www.Fulanao.com.br/) | 
+
+
